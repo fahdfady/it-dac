@@ -603,7 +603,7 @@ table.casher-table thead th {
   footer .footer-container {
     padding: 0;
     justify-content: space-between;
-    gap: 30px;
+    gap: 30px 0;
   }
   footer .footer-container > div,
   footer .footer-container > div > div {
